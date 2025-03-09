@@ -15,17 +15,17 @@ This SQL project analyzes a restaurant's **menu items and order details** to der
 - **`order_details`** – Tracks order history, including item IDs and order dates.  
 
 ### Key Features  
-## Menu Analysis  
+#### Menu Analysis  
 - Count of items per category  
 - Least & most expensive items  
 - Price distribution across categories  
 
-## Order Behavior Analysis  
+#### Order Behavior Analysis  
 - Total number of orders  
 - First & last order date  
 - Number of items per order  
 
-## Sales Insights  
+#### Sales Insights  
 - Top 5 highest-spending orders  
 - Most & least ordered items  
 - Category-wise order distribution  
